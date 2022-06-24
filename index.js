@@ -1,6 +1,6 @@
 var opr = prompt("Operator: ")
-var num1 = parseInt(prompt("Number 1: "))
-var num2 = parseInt(prompt("Number 2: "))
+var num1 = parseInt(prompt("Enter the first number: "))
+var num2 = parseInt(prompt("Enter the second number: "))
 
 if(opr == "+")
 {
@@ -14,4 +14,6 @@ if(opr == "+")
 } else if(opr == "/")
 {
     alert (num1 / num2)
+} else{
+   alert("You entered a wrong input!!!")
 }
