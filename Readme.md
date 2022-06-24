@@ -8,4 +8,5 @@
 
  ## LINKS
  [Live site](http://127.0.0.1:5500/)
+ [Github pages url](https://tayeagboola.github.io/Javascript_Calculator/)
  
